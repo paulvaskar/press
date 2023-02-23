@@ -1,0 +1,14 @@
+{
+    "name": "vaskar/press",
+    "description": "laravel pkg",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vaskar Paul",
+            "email": "vaskar.paul@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^8.0"
+    }
+}
